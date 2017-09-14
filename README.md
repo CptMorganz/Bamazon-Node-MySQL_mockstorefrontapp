@@ -20,3 +20,5 @@ It then checks the database to see if the item selected was listed and if there 
 
 * If the user tries to purchase a quantity that is higher than the amount in stock the app will also inform them of the error and end connection to the database.
 	![example5.png](/images/example5.png)
+
+That's all for my Bamazon Application for now. I hope to work on a manager portion of it in the future but for now this is what I have working.
